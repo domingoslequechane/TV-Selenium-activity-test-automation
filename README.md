@@ -11,8 +11,4 @@ specific project I used version 4.1.2. You can download the .jar file
 
 Feel free to use the dependencies in the versions you want.
 
-## Template
-Author: Colorlib <br>
-Released: February 2022 <br>
-License: CC BY 3.0 <br>
-Click <a href="https://colorlib.com/wp/template/login-form-v1/">here</a> to get or see.
+Template <a href="https://github.com/domingoslequechane/login_page/">repository</a>.
